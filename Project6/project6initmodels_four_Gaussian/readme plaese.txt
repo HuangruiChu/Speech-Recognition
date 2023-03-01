@@ -1,0 +1,1 @@
+This folder save the models trained by Huangrui using isolated word data with GMM has 4 gaussian distributions.
